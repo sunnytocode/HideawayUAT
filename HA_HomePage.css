@@ -1,0 +1,42 @@
+/*<style type="text/css">*/
+  /*   Selector  {
+       property : value;
+  } */
+
+/* Broder
+
+  width
+  color
+  style
+
+  */
+
+
+h1 {
+    color: #FFFFFF;
+   }
+
+li {
+    color: #FFFFFF;
+   }
+
+h2 {
+  color: #FFFFFF;
+  border-color: purple;
+  border-width: 5px;
+  border-style: solid;
+}
+
+h4{
+  background: rgb(100,0,100);
+  border: 2px solid rgb(255,200,100);
+}
+
+body{
+  background: grey;
+}
+
+/*body{*/
+
+  /*background: url(http://www.wallpaperbetter.com/wallpaper/673/774/516/waterfall-jungle-forest-rocks-stones-moss-hd-1080P-wallpaper.jpg);*/
+ /*background-size: cover}*/
